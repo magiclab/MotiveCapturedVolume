@@ -1,0 +1,10 @@
+<misc>
+  <voxel>0.3</voxel>
+  <min_cameras>2</min_cameras>
+  <ttp>C:\path_to_your_ttp_file\yourFile.ttp</ttp>
+  <cal>C:\path_to_your_cal_file\yourFile.cal</cal>
+  <ray_length>
+    <cam model="13W" fov_x="82" fov_y="70">6.1</cam>
+    <cam model="17W" fov_x="70" fov_y="70">15.2</cam>
+  </ray_length>
+</misc>

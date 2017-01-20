@@ -1,0 +1,9 @@
+<coords>
+  <placeholders>
+    <x>1</x>
+    <y>2</y>
+    <z>0</z>
+  </placeholders>
+  <rot angle="90" axis="2"></rot>
+  <rot angle="90" axis="1"></rot>
+</coords>
