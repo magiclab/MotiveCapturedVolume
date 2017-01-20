@@ -14,3 +14,10 @@ The Motive API is Windows only, so this application runs on Windows.
 
 ## license
 GPL v.3
+
+##screenshots
+![alt text](https://raw.githubusercontent.com/magiclab/MotiveCapturedVolume/master/screen0.png "setup screen")
+
+![alt text](https://raw.githubusercontent.com/magiclab/MotiveCapturedVolume/master/screen1.png "voxels view")
+
+![alt text](https://raw.githubusercontent.com/magiclab/MotiveCapturedVolume/master/screen2.png "convex hull view")
