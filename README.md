@@ -1,7 +1,7 @@
 # MotiveCapturedVolume
 Tool to compute the volume captured by a group of Optitrack cameras.
 
-The captured volume is computed diving the workspace in voxels, which are individually tested against the frustum of each camera. From the GUI, a user can set voxel definition and minimum number of cameras from which a voxel needs to be seen.
+The captured volume is computed dividing the workspace in voxels, which are individually tested against the frustum of each camera. From the GUI, a user can set voxel definition and minimum number of cameras from which a voxel needs to be seen.
 
 The application is able to export point clouds and 3D models in PLY format.
 
